@@ -342,7 +342,7 @@
     <section class="castle-showcase">
         <div class="container">
             <h2 class="section-title">Our Amazing Castle!</h2>
-            <img src="https://images.unsplash.com/photo-1590137856172-6d0cba3d8e8f" alt="Colorful jumping castle" width="800">
+            <img src="https://images.3x3mPHOTO.jpeg" alt="Colorful jumping castle" width="800">
             <p style="margin-top: 20px; font-size: 1.2rem; color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Our vibrant 3x3m castle guarantees hours of bouncing fun!</p>
         </div>
     </section>
