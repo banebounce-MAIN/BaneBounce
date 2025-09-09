@@ -352,7 +352,8 @@
         <div class="card">
             <h3>3x3m Jumping Castle</h3>
             <p>Perfect size for most parties and gatherings. Includes delivery, setup, and collection within Pretoria.</p>
-            <div class="price">R670 per day</div>
+            <div class="price">R670 per day PRETORIA</div>
+            <div class="price">R750 per day JOHANNESBURG</div>
             <a href="#contact" class="btn">Book This Castle</a>
         </div>
     </section>
@@ -361,16 +362,16 @@
         <h2 class="section-title">Contact Us</h2>
         <div class="card">
             <div class="contact-info">
-                <p><i class="fas fa-phone"></i> Call/WhatsApp: +27 67 345 6789</p>
-                <p><i class="fas fa-envelope"></i> Email: info@banebounce.co.za</p>
+                <p><i class="fas fa-phone"></i> Call: 067 688 9364</p>
+                <p><i class="fas fa-envelope"></i> Email: banebounce@gmail.co.za</p>
                 <p><i class="fas fa-map-marker-alt"></i> Based in Pretoria, Gauteng</p>
             </div>
-            <a href="https://wa.me/27673456789" class="btn" style="background: #25D366;"><i class="fab fa-whatsapp"></i> Message on WhatsApp</a>
+            <a href="https://wa.me/061 973 1266" class="btn" style="background: #25D366;"><i class="fab fa-whatsapp"></i> Message on WhatsApp</a>
         </div>
     </section>
 
     <footer>
-        <p>© 2023 Bane Bounce. All Rights Reserved.</p>
+        <p>© 2025 Bane Bounce. All Rights Reserved.</p>
         <p>Making parties fun and memorable!</p>
     </footer>
 
