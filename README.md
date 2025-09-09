@@ -10,7 +10,7 @@
             box-sizing: border-box;
             margin: 0;
             padding: 0;
-            font-family: 'Comic Neue', cursive, Arial, sans-serif;
+            font-family: Arial;
         }
         
         body {
