@@ -350,22 +350,12 @@
             <div class="price">R670 per day PRETORIA</div>" alt="Colorful jumping castle" width="800">
             <p style="margin-top: 20px; font-size: 1.2rem; color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Our vibrant 3x3m castle guarantees hours of bouncing fun!</p>
         </div>
-    </section>
-
-    <section id="pricing" class="section">
-        <h2 class="section-title">Pricing</h2>
-        <div class="card">
-            <h3>3x3m Jumping Castle</h3>
-            <p>Perfect size for most parties and gatherings. Includes delivery, setup, and collection within Pretoria.</p>
-            <div class="price">R670 per day</div>
-
 <section id="pricing" class="section">
         <h2 class="section-title">Pricing</h2>
            <div class="card">
             <h3>3x3m Jumping Castle</h3>
             <p>Perfect size for most parties and gatherings. Includes delivery, setup, and collection within Joburg.</p>
          <div class="price">R750 per day</div>
-            
             <a href="#contact" class="btn">Book This Castle</a>
         </div>
     </section>
@@ -378,7 +368,7 @@
                 <p><i class="fas fa-envelope"></i> Email: banebounce@gmail.co.za</p>
                 <p><i class="fas fa-map-marker-alt"></i> Based in Pretoria, Gauteng</p>
             </div>
-            <a href="https://wa.me/061 973 1266" class="btn" style="background: #25D366;"><i class="fab fa-whatsapp"></i> Message on WhatsApp</a>
+            <a href="https://wa.me/+27761 973 1266" class="btn" style="background: #25D366;"><i class="fab fa-whatsapp"></i> Message on WhatsApp</a>
         </div>
     </section>
 
