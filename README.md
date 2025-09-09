@@ -347,7 +347,10 @@
         <div class="card">
             <h3>3x3m Jumping Castle</h3>
             <p>Perfect size for most parties and gatherings. Includes delivery, setup, and collection within Pretoria.</p>
-            <div class="price">R670 per day PRETORIA</div>" alt="Colorful jumping castle" width="800">
+            <div class="price">R670 per day PRETORIA</div>" 
+            <a href="#contact" class="btn">Book This Castle</a>
+        </div>
+    </section>
             <p style="margin-top: 20px; font-size: 1.2rem; color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Our vibrant 3x3m castle guarantees hours of bouncing fun!</p>
         </div>
 <section id="pricing" class="section">
