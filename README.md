@@ -296,9 +296,9 @@
             <div class="logo">
                 <i class="fas fa-cloud"></i>
             </div>
+
             <div class="logo-text">
-                <h1>Bane Bounce</h1>
-                <p>Jumping Castle Fun!</p>
+                <link rel="stylesheet" href="https://github.com/banebounce-MAIN/BaneBounce/blob/main/Logo.jpg">
             </div>
         </div>
         <nav>
